@@ -412,7 +412,7 @@ h2 {
 footer {
     background: var(--dark-blue);
     margin-top: 8em;
-    padding: 2em 0;
+    padding: 2em 2em;
 }
 
 footer div:first-child {
@@ -491,7 +491,7 @@ footer a {
 
 
     footer div:first-child {
-        max-width: 90%;
+        max-width: 100%;
     } 
 }
 
